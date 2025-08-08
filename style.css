@@ -17,3 +17,9 @@ body {
     font-size: 1.8rem;
     font-weight: normal;
   }
+  img {
+    width: 300px;
+    height: auto; 
+    display: block; 
+    margin: 50px auto; 
+}
